@@ -1,5 +1,5 @@
-# projetoSimples
-Projetos simples em Phyton, leitura de um arquivo .csv
+# Leitura de arquivo csv no Phyton
+Projeto simples em Phyton, leitura de um arquivo .csv
 
 Função 1 :Mostrar quantidade de linhas e nome das colunas do arquivo
 Função 2:Mostrar o percentual de produtos por tarja e a quantidade, amarela, vermelha preta e sem tarja
